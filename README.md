@@ -2,4 +2,5 @@
 
 Lidar map:
 
-![alt text](https://github.com/atlas289/Mesa-Analysis/tree/master/graphs/viz.mean.hs.white.jpg "Lidar map")
+![lidar map](graphs/viz.mean.hs.white.jpg "Lidar map") ![Elevation map](graphs/elevation_map.jpg "Elevation map")
+blah blah
